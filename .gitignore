@@ -9,3 +9,6 @@ __pycache__/
 
 # Environment files that might contain passwords or secrets
 .env
+
+# Data files - kept locally only, not pushed to GitHub
+*.csv
