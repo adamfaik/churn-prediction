@@ -1,0 +1,11 @@
+# Python cache files - auto-generated, not our work
+__pycache__/
+
+# Jupyter notebook checkpoint files - auto-saved drafts we don't need
+.ipynb_checkpoints/
+
+# Mac system file that appears in every folder on macOS
+.DS_Store
+
+# Environment files that might contain passwords or secrets
+.env
